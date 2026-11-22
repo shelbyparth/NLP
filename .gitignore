@@ -1,9 +1,0 @@
-.env
-.venv/
-__pycache__/
-.pytest_cache/
-*.py[cod]
-data/history.sqlite3
-data/evidence.json
-
-data/latest_evaluation.json
